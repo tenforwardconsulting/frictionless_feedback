@@ -1,0 +1,2 @@
+module FrictionlessFeedback
+end
